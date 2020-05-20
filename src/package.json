@@ -8,6 +8,12 @@
   "dependencies": {
     "slackbots": "0.5.2",
     "node-unifi": "^1.1.1",
-    "color-console": "0.0.1"
-  }
+    "color-console": "0.0.1",
+    "snyk": "^1.323.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
