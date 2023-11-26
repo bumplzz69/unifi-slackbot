@@ -10,6 +10,6 @@
   "author": "Glenn de Haan",
   "license": "MIT",
   "dependencies": {
-    "nodemon": "^1.11.0"
+    "nodemon": "^2.0.0"
   }
 }
