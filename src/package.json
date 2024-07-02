@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "slackbots": "0.5.2",
-    "node-unifi": "^1.1.1",
+    "node-unifi": "^2.0.0",
     "color-console": "0.0.1"
   }
 }
